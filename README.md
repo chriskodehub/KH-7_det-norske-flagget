@@ -1,5 +1,8 @@
 # Det norske flagget
 
+[Source code](https://github.com/chriskodehub/KH-7_det-norske-flagget)  
+[Live demo](https://chriskodehub.github.io/KH-7_det-norske-flagget/)
+
 ![Flag template](img/flag-template.png)
 
 Bildet ovenfor viser det norske flagget i riktige proporsjoner. I denne oppgaven skal vi tegne vårt vakre flagg ved å burke rect-elmentet og -taggen.
@@ -18,4 +21,4 @@ Lykke til!
 
 ## Result
 
-![Result](img/demo.png)
+![Result](img/result.png)
